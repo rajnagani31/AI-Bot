@@ -141,7 +141,6 @@ def main():
             """)
 
         st.markdown("---")
-        "[![Open in GitHub ](https://github.com/codespaces/badge.svg)](https://github.com/rajnagani31/Ai-chat-bot)"
         
         # Chat controls
         st.subheader("Chat Controls")
